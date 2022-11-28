@@ -98,7 +98,7 @@
 |llvm-lld|1830||the mono LLVM repo|
 |llvm15|1830||the mono LLVM repo|
 |lua5.3-lzlib|21513|||
-|lua5.3|||check this https://release-monitoring.org/projects/search/?pattern=lua5|
+|lua5.3|||SKIP check this https://release-monitoring.org/projects/search/?pattern=lua5|
 |lz4|1865|||
 |m4|1871|||
 |make|1877|||
@@ -108,12 +108,12 @@
 |mpc|1667|||
 |mpdecimal|11578|||
 |mpfr|2019|||
-|ncurses|2057||check melange config as fetch URL includes the date https://release-monitoring.org/project/2057/|
+|ncurses|2057||SKIP check melange config as fetch URL includes the date https://release-monitoring.org/project/2057/|
 |nghttp2|8651|||
-|nodejs||double check do we want to track latest or LTS? https://release-monitoring.org/projects/search/?pattern=nodejs|
+|nodejs|||SKIP double check do we want to track latest or LTS? https://release-monitoring.org/projects/search/?pattern=nodejs|
 |oniguruma|11184|||
-|openjdk-11||check this - we might want to monitor patch versions which release monitor seems to not https://release-monitoring.org/projects/search/?pattern=openjdk|
-|openjdk-17||check this - we might want to monitor patch versions which release monitor seems to not https://release-monitoring.org/projects/search/?pattern=openjdk|
+|openjdk-11|||SKIP check this - we might want to monitor patch versions which release monitor seems to not https://release-monitoring.org/projects/search/?pattern=openjdk|
+|openjdk-17|||SKIP check this - we might want to monitor patch versions which release monitor seems to not https://release-monitoring.org/projects/search/?pattern=openjdk|
 |openssh|2565|||
 |openssl|2566|||
 |patch|2597|||
@@ -124,11 +124,11 @@
 |perl|13599|||
 |pkgconf|12753|||
 |popt|3689|||
-|postgresql-11|5601||check version stream https://release-monitoring.org/project/5601/|
-|postgresql-12|5601||check version stream https://release-monitoring.org/project/5601/|
-|postgresql-13|5601||check version stream https://release-monitoring.org/project/5601/|
-|postgresql-14|5601||check version stream https://release-monitoring.org/project/5601/|
-|postgresql-15|5601||check version stream https://release-monitoring.org/project/5601/|
+|postgresql-11|5601||SKIP check version stream https://release-monitoring.org/project/5601/|
+|postgresql-12|5601||SKIP check version stream https://release-monitoring.org/project/5601/|
+|postgresql-13|5601||SKIP check version stream https://release-monitoring.org/project/5601/|
+|postgresql-14|5601||SKIP check version stream https://release-monitoring.org/project/5601/|
+|postgresql-15|5601||SKIP check version stream https://release-monitoring.org/project/5601/|
 |procps|3708|||
 |py3-appdirs|6278|||
 |py3-contextlib2|6215|||
@@ -144,8 +144,8 @@
 |py3-pep517|47623|||
 |py3-pip|6529|||
 |py3-retrying|13217|||
-|py3-setuptools-stage0|||skip stage 0?|
-|py3-setuptools|4021||# NOTE: Be very careful when upgrading this package as upstream aggressively deprecates functionality used by packages in production|
+|py3-setuptools-stage0|||SKIP stage 0?|
+|py3-setuptools|4021||SKIP # NOTE: Be very careful when upgrading this package as upstream aggressively deprecates functionality used by packages in production|
 |py3-six|4027|||
 |py3-tomli|207408|||
 |python3|13254|||
@@ -153,8 +153,8 @@
 |regclient|||SKIP UNKNOWN|
 |rhash|13843|||
 |rsync|4217|||
-|ruby-3.0|4223||version stream|
-|ruby-3.1|4223||version stream|
+|ruby-3.0|4223||SKIP version stream|
+|ruby-3.1|4223||SKIP version stream|
 |rust-stage0|||SKIP stage 0|
 |s6|5485|||
 |samurai|96779|||
