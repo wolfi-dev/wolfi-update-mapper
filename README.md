@@ -1,5 +1,5 @@
-| package name | identifier | release service   | notes |
-|--------------|-----------------|------|------ |
+| package name | identifier | release service | notes |
+| ------------ | ----------- |--------------- | ----- |
 |acl|16|https://release-monitoring.org||
 |alsa-lib|38|||
 |apk-tools|20466|||
@@ -7,7 +7,7 @@
 |autoconf|141|||
 |automake|144|||
 |bash|166|||
-|bazel-5|15227|| bazel - 5 version stream|
+|bazel-5|15227||SKIP bazel - 5 version stream|
 |binutils|7981|||
 |bison|193|||
 |brotli|15235|||
@@ -17,18 +17,18 @@
 |c-ares|5840|||
 |ca-certificates|9026|||
 |check|7593|||
-|clang-15|11811||clang - 15 version stream|
+|clang-15|11811||SKIP clang - 15 version stream|
 |cmake|306|||
 |coreutils|343|||
-|cosign|||UNKNOWN|
-|crane|||UNKNOWN|
+|cosign|||SKIP UNKNOWN|
+|crane|||SKIP UNKNOWN|
 |cups|380|||
 |curl|381|||
 |dbus|5356|||
 |diffutils|436|||
 |dumb-init|11582|||
 |encodings|15051|||
-|envoy|||UNKNOWN|
+|envoy|||SKIP UNKNOWN|
 |execline|5482|||
 |expat|770|||
 |file|807|||
@@ -45,23 +45,23 @@
 |git|5350||includes release candidates e.g. 2.39.0-rc0|
 |glibc|5401||includes Pre-release 9000 https://release-monitoring.org/project/5401/|
 |gmp|1186|||
-|go-bindata|||UNKNOWN|
+|go-bindata||| SKIP UNKNOWN|
 |go|1227|||
 |gperf|1237|||
 |grep|1251|||
-|grype|||UNKNOWN|
+|grype|||SKIP UNKNOWN|
 |gzip|1290|||
 |help2man|1309|||
 |icu|16134||includes release candidates e.g. 72-rc|
 |isl|13286|||
-|jenkins|||UNKNOWN|
+|jenkins|||SKIP UNKNOWN|
 |jq|13252|||
-|kubectl|||UNKNOWN|
+|kubectl|||SKIP UNKNOWN|
 |lcms|1542|||
 |libarchive|1558|||
 |libbsd|1567|||
-|libcap|||double check as we have a very old version if they are the same package https://release-monitoring.org/project/1569/|
-|libedit|1599||check as they include the date in the version but we have it hard coded in melange config|
+|libcap|||SKIP double check as we have a very old version if they are the same package https://release-monitoring.org/project/1569/|
+|libedit|1599||SKIP check as they include the date in the version but we have it hard coded in melange config|
 |libev|1605|||
 |libevent|1606|||
 |libffi|1611|||
@@ -150,12 +150,12 @@
 |py3-tomli|207408|||
 |python3|13254|||
 |readline|4173|||
-|regclient|||UNKNOWN|
+|regclient|||SKIP UNKNOWN|
 |rhash|13843|||
 |rsync|4217|||
 |ruby-3.0|4223||version stream|
 |ruby-3.1|4223||version stream|
-|rust-stage0|||skip stage 0|
+|rust-stage0|||SKIP stage 0|
 |s6|5485|||
 |samurai|96779|||
 |scdoc|68662|||
@@ -163,12 +163,12 @@
 |skalibs|5486|||
 |skopeo|9216|||
 |sqlite|4877|||
-|su-exec|||UNKNOWN|
+|su-exec|||SKIP UNKNOWN|
 |texinfo|4958|||
 |tini|13826|||
 |tree|5006|||
 |trivy|141362|||
-|ttf-dejavu|418||check format of version|
+|ttf-dejavu|418||SKIP check format of version|
 |tzdata|5021|||
 |util-macros|5252|||
 |wget|5124|||
@@ -183,4 +183,4 @@
 |http-parser|10989|||
 |libgit2|1627|||
 |libssh2|1730|||
-|wasi-libc|||UNKNOWN|
+|wasi-libc|||SKIP UNKNOWN|
