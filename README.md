@@ -52,7 +52,7 @@
 |grype|||SKIP UNKNOWN|
 |gzip|1290|||
 |help2man|1309|||
-|icu|16134||includes release candidates e.g. 72-rc|
+|icu|16134||SKIP uses unusual version format|
 |isl|13286|||
 |jenkins|||SKIP UNKNOWN|
 |jq|13252|||
