@@ -148,7 +148,7 @@
 |py3-setuptools|4021||SKIP # NOTE: Be very careful when upgrading this package as upstream aggressively deprecates functionality used by packages in production|
 |py3-six|4027|||
 |py3-tomli|207408|||
-|python3|13254|||
+|python3|13254||SKIP python minor version [is used in the subpackage](https://github.com/wolfi-dev/os/blob/fbdc30376679526ce0c5bec80debeb111512ea7e/python3.yaml#LL90C61-L90C65) so upgrade to 3.11 fails |
 |readline|4173|||
 |regclient|||SKIP UNKNOWN|
 |rhash|13843|||
