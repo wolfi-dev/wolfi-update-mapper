@@ -18,7 +18,7 @@
 |ca-certificates|9026|||
 |check|7593|||
 |clang-15|11811||SKIP clang - 15 version stream|
-|cmake|306|||
+|cmake|306||SKIP - includes subset of the version in the melange fetch URL|
 |coreutils|343|||
 |cosign|||SKIP UNKNOWN|
 |crane|||SKIP UNKNOWN|
@@ -117,7 +117,7 @@
 |openssh|2565|||
 |openssl|2566|||
 |patch|2597|||
-|pax-utils|2601|||
+|pax-utils|2601||SKIP - latest version has changed URL|
 |pcre2|5832|||
 |perl-test-pod|3410|||
 |perl-yaml-syck|11926|||
@@ -176,7 +176,7 @@
 |xmlto|13307|||
 |xorgproto|17190|||
 |xtrans|13440|||
-|xz|5277|||
+|xz|5277||SKIP - redirects issue|
 |zip|10080|||
 |zlib|5303|||
 |zstd|12083|||
