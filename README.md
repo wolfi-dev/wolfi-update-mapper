@@ -138,7 +138,7 @@
 |py3-jinja2|3894|||
 |py3-markupsafe|3918|||
 |py3-more-itertools|12201|||
-|py3-ordered-set|7433|||
+|py3-ordered-set|7433||SKIP - CI failure cp: can't stat 'ordered_set.egg-info': No such file or directory|
 |py3-packaging|11718|||
 |py3-parsing|3756|||
 |py3-pep517|47623|||
