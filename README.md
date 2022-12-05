@@ -176,7 +176,7 @@
 |xmlto|13307|||
 |xorgproto|17190|||
 |xtrans|13440|||
-|xz|5277||SKIP - redirects issue|
+|xz|5277|||
 |zip|10080|||
 |zlib|5303|||
 |zstd|12083|||
