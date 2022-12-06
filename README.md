@@ -96,7 +96,7 @@
 |linux-headers|6501|||
 |llvm-libunwind|1830||the mono LLVM repo|
 |llvm-lld|1830||the mono LLVM repo|
-|llvm15|1830||the mono LLVM repo|
+|llvm15|1830||SKIP CI failure /home/build/MinGW/Options.td:1:9: error: Could not find include file 'llvm/Option/OptParser.td'. the mono LLVM repo|
 |lua5.3-lzlib|21513|||
 |lua5.3|||SKIP check this https://release-monitoring.org/projects/search/?pattern=lua5|
 |lz4|1865|||
