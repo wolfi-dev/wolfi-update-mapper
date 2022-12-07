@@ -53,7 +53,7 @@
 |gzip|1290|||
 |help2man|1309|||
 |icu|16134||SKIP uses unusual version format|
-|isl|13286|||
+|isl|13286||SKIP|
 |jenkins|||SKIP UNKNOWN|
 |jq|13252|||
 |kubectl|||SKIP UNKNOWN|
@@ -93,7 +93,7 @@
 |libxt|1793|||
 |libxtst|1794|||
 |linenoise|5691|||
-|linux-headers|6501|||
+|linux-headers|6501||SKIP - As we want to be conservative providing new APIs|
 |llvm-libunwind|1830||the mono LLVM repo|
 |llvm-lld|1830||the mono LLVM repo|
 |llvm15|1830||SKIP CI failure /home/build/MinGW/Options.td:1:9: error: Could not find include file 'llvm/Option/OptParser.td'. the mono LLVM repo|
