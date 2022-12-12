@@ -21,14 +21,14 @@
 |cmake                    |306                             |RELEASE_MONITOR  |              |SKIP - includes subset of the version in the melange fetch URL             |
 |coreutils                |343                             |RELEASE_MONITOR  |              |                                                                           |
 |cosign                   |sigstore/cosign                 |GITHUB           |v             |                                                                           |
-|crane                    |google/go-containerregistry     |GITHUB           |              |SKIP UNKNOWN                                                               |
+|crane                    |google/go-containerregistry     |GITHUB           |V             |                                                                           |
 |cups                     |380                             |RELEASE_MONITOR  |              |                                                                           |
 |curl                     |381                             |RELEASE_MONITOR  |              |                                                                           |
 |dbus                     |5356                            |RELEASE_MONITOR  |              |                                                                           |
 |diffutils                |436                             |RELEASE_MONITOR  |              |                                                                           |
 |dumb-init                |11582                           |RELEASE_MONITOR  |              |                                                                           |
 |encodings                |15051                           |RELEASE_MONITOR  |              |                                                                           |
-|envoy                    |envoyproxy/envoy                |GITHUB           |              |SKIP UNKNOWN                                                               |
+|envoy                    |envoyproxy/envoy                |GITHUB           |V             |                                                                           |
 |execline                 |5482                            |RELEASE_MONITOR  |              |                                                                           |
 |expat                    |770                             |RELEASE_MONITOR  |              |                                                                           |
 |file                     |807                             |RELEASE_MONITOR  |              |                                                                           |
@@ -49,7 +49,7 @@
 |go-bindata               |                                |                 |              |SKIP UNKNOWN                                                               |
 |gperf                    |1237                            |RELEASE_MONITOR  |              |                                                                           |
 |grep                     |1251                            |RELEASE_MONITOR  |              |                                                                           |
-|grype                    |anchore/grype                   |GITHUB           |              |SKIP UNKNOWN                                                               |
+|grype                    |anchore/grype                   |GITHUB           |V             |SKIP UNKNOWN                                                               |
 |gzip                     |1290                            |RELEASE_MONITOR  |              |                                                                           |
 |help2man                 |1309                            |RELEASE_MONITOR  |              |                                                                           |
 |http-parser              |10989                           |RELEASE_MONITOR  |              |                                                                           |
@@ -151,7 +151,7 @@
 |py3-setuptools-stage0    |                                |                 |              |SKIP stage 0?                                                              |
 |py3-six                  |4027                            |RELEASE_MONITOR  |              |                                                                           |
 |py3-tomli                |207408                          |RELEASE_MONITOR  |              |                                                                           |
-|python3                  |13254                           |RELEASE_MONITOR  |              |SKIP python minor version [is used in the subpackage](https://github.com/wolfi-dev/os/blob/fbdc30376679526ce0c5bec80debeb111512ea7e/python3.yaml#LL90C61-L90C65) so upgr|              ade to 3.11 fails|
+|python3                  |13254                           |RELEASE_MONITOR  |              |SKIP python minor version [is used in the subpackage](https://github.com/wolfi-dev/os/blob/fbdc30376679526ce0c5bec80debeb111512ea7e/python3.yaml#LL90C61-L90C65) so upgrade to 3.11 fails|
 |readline                 |4173                            |RELEASE_MONITOR  |              |                                                                           |
 |regclient                |                                |                 |              |SKIP UNKNOWN                                                               |
 |rhash                    |13843                           |RELEASE_MONITOR  |              |                                                                           |
@@ -174,7 +174,7 @@
 |ttf-dejavu               |418                             |RELEASE_MONITOR  |              |SKIP check format of version                                               |
 |tzdata                   |5021                            |RELEASE_MONITOR  |              |                                                                           |
 |util-macros              |5252                            |RELEASE_MONITOR  |              |                                                                           |
-|wasi-libc                |                                |                 |              |SKIP UNKNOWN                                                               |
+|wasi-libc                |                                |                 |              |SKIP No releases, uses tags                                                |
 |wget                     |5124                            |RELEASE_MONITOR  |              |                                                                           |
 |xcb-proto                |13646                           |RELEASE_MONITOR  |              |                                                                           |
 |xmlto                    |13307                           |RELEASE_MONITOR  |              |                                                                           |
