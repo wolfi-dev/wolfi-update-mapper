@@ -61,7 +61,7 @@
 |lcms                     |1542                            |RELEASE_MONITOR  |              |                                                                           |
 |libarchive               |1558                            |RELEASE_MONITOR  |              |                                                                           |
 |libbsd                   |1567                            |RELEASE_MONITOR  |              |                                                                           |
-|libcap                   |                                |                 |              |SKIP double check as we have a very old version if they are the same package https://release-monitoring.org/project/1569/||
+|libcap                   |                                |                 |              |SKIP double check as we have a very old version if they are the same package https://release-monitoring.org/project/1569/|
 |libedit                  |1599                            |RELEASE_MONITOR  |              |SKIP check as they include the date in the version but we have it hard coded in melange config|
 |libev                    |1605                            |RELEASE_MONITOR  |              |                                                                           |
 |libevent                 |1606                            |RELEASE_MONITOR  |              |                                                                           |
@@ -99,7 +99,7 @@
 |linux-headers            |6501                            |RELEASE_MONITOR  |              |SKIP - As we want to be conservative providing new APIs                    |
 |llvm-libunwind           |1830                            |RELEASE_MONITOR  |              |the mono LLVM repo                                                         |
 |llvm-lld                 |1830                            |RELEASE_MONITOR  |              |the mono LLVM repo                                                         |
-|llvm15                   |1830                            |RELEASE_MONITOR  |              |SKIP CI failure /home/build/MinGW/Options.td:1:9: error: Could not find include file 'llvm/Option/OptParser.td'. the mono LLVM repo||
+|llvm15                   |1830                            |RELEASE_MONITOR  |              |SKIP CI failure /home/build/MinGW/Options.td:1:9: error: Could not find include file 'llvm/Option/OptParser.td'. the mono LLVM repo|
 |lua5.3                   |                                |                 |              |SKIP check this https://release-monitoring.org/projects/search/?pattern=lua5|
 |lua5.3-lzlib             |21513                           |RELEASE_MONITOR  |              |                                                                           |
 |lz4                      |1865                            |RELEASE_MONITOR  |              |                                                                           |
@@ -113,10 +113,10 @@
 |mpfr                     |2019                            |RELEASE_MONITOR  |              |                                                                           |
 |ncurses                  |2057                            |RELEASE_MONITOR  |              |SKIP check melange config as fetch URL includes the date https://release-monitoring.org/project/2057/|
 |nghttp2                  |8651                            |RELEASE_MONITOR  |              |                                                                           |
-|nodejs                   |                                |                 |              |SKIP double check do we want to track latest or LTS? https://release-monitoring.org/projects/search/?pattern=nodejs||
+|nodejs                   |                                |                 |              |SKIP double check do we want to track latest or LTS? https://release-monitoring.org/projects/search/?pattern=nodejs|
 |oniguruma                |11184                           |RELEASE_MONITOR  |              |                                                                           |
-|openjdk-11               |                                |                 |              |SKIP check this - we might want to monitor patch versions which release monitor seems to not https://release-monitoring.org/projects/search/?pattern=openjdk||
-|openjdk-17               |                                |                 |              |SKIP check this - we might want to monitor patch versions which release monitor seems to not https://release-monitoring.org/projects/search/?pattern=openjdk||
+|openjdk-11               |                                |                 |              |SKIP check this - we might want to monitor patch versions which release monitor seems to not https://release-monitoring.org/projects/search/?pattern=openjdk|
+|openjdk-17               |                                |                 |              |SKIP check this - we might want to monitor patch versions which release monitor seems to not https://release-monitoring.org/projects/search/?pattern=openjdk|
 |openssh                  |2565                            |RELEASE_MONITOR  |              |                                                                           |
 |openssl                  |2566                            |RELEASE_MONITOR  |              |                                                                           |
 |patch                    |2597                            |RELEASE_MONITOR  |              |                                                                           |
@@ -147,7 +147,7 @@
 |py3-pep517               |47623                           |RELEASE_MONITOR  |              |                                                                           |
 |py3-pip                  |6529                            |RELEASE_MONITOR  |              |                                                                           |
 |py3-retrying             |13217                           |RELEASE_MONITOR  |              |                                                                           |
-|py3-setuptools           |4021                            |RELEASE_MONITOR  |              |SKIP # NOTE: Be very careful when upgrading this package as upstream aggressively deprecates functionality used by packages in production||
+|py3-setuptools           |4021                            |RELEASE_MONITOR  |              |SKIP # NOTE: Be very careful when upgrading this package as upstream aggressively deprecates functionality used by packages in production|
 |py3-setuptools-stage0    |                                |                 |              |SKIP stage 0?                                                              |
 |py3-six                  |4027                            |RELEASE_MONITOR  |              |                                                                           |
 |py3-tomli                |207408                          |RELEASE_MONITOR  |              |                                                                           |
