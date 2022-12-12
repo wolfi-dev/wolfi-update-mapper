@@ -21,14 +21,14 @@
 |cmake                    |306                             |RELEASE_MONITOR  |              |SKIP - includes subset of the version in the melange fetch URL             |
 |coreutils                |343                             |RELEASE_MONITOR  |              |                                                                           |
 |cosign                   |sigstore/cosign                 |GITHUB           |v             |                                                                           |
-|crane                    |google/go-containerregistry     |GITHUB           |V             |                                                                           |
+|crane                    |google/go-containerregistry     |GITHUB           |v             |                                                                           |
 |cups                     |380                             |RELEASE_MONITOR  |              |                                                                           |
 |curl                     |381                             |RELEASE_MONITOR  |              |                                                                           |
 |dbus                     |5356                            |RELEASE_MONITOR  |              |                                                                           |
 |diffutils                |436                             |RELEASE_MONITOR  |              |                                                                           |
 |dumb-init                |11582                           |RELEASE_MONITOR  |              |                                                                           |
 |encodings                |15051                           |RELEASE_MONITOR  |              |                                                                           |
-|envoy                    |envoyproxy/envoy                |GITHUB           |V             |                                                                           |
+|envoy                    |envoyproxy/envoy                |GITHUB           |v             |                                                                           |
 |execline                 |5482                            |RELEASE_MONITOR  |              |                                                                           |
 |expat                    |770                             |RELEASE_MONITOR  |              |                                                                           |
 |file                     |807                             |RELEASE_MONITOR  |              |                                                                           |
@@ -49,7 +49,7 @@
 |go-bindata               |                                |                 |              |SKIP UNKNOWN                                                               |
 |gperf                    |1237                            |RELEASE_MONITOR  |              |                                                                           |
 |grep                     |1251                            |RELEASE_MONITOR  |              |                                                                           |
-|grype                    |anchore/grype                   |GITHUB           |V             |SKIP UNKNOWN                                                               |
+|grype                    |anchore/grype                   |GITHUB           |v             |SKIP UNKNOWN                                                               |
 |gzip                     |1290                            |RELEASE_MONITOR  |              |                                                                           |
 |help2man                 |1309                            |RELEASE_MONITOR  |              |                                                                           |
 |http-parser              |10989                           |RELEASE_MONITOR  |              |                                                                           |
