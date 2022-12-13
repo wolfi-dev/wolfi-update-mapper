@@ -28,7 +28,7 @@
 |diffutils                |436                             |RELEASE_MONITOR  |              |                                                                           |
 |dumb-init                |11582                           |RELEASE_MONITOR  |              |                                                                           |
 |encodings                |15051                           |RELEASE_MONITOR  |              |                                                                           |
-|envoy                    |envoyproxy/envoy                |GITHUB           |v             |                                                                           |
+|envoy                    |envoyproxy/envoy                |GITHUB           |v             |SKIP                                                                       |
 |execline                 |5482                            |RELEASE_MONITOR  |              |                                                                           |
 |expat                    |770                             |RELEASE_MONITOR  |              |                                                                           |
 |file                     |807                             |RELEASE_MONITOR  |              |                                                                           |
@@ -166,7 +166,7 @@
 |skalibs                  |5486                            |RELEASE_MONITOR  |              |                                                                           |
 |skopeo                   |9216                            |RELEASE_MONITOR  |              |                                                                           |
 |sqlite                   |4877                            |RELEASE_MONITOR  |              |                                                                           |
-|su-exec                  |                                |                 |              |SKIP UNKNOWN                                                               |
+|su-exec                  |                                |                 |              |SKIP No releases, uses tag                                                 |
 |texinfo                  |4958                            |RELEASE_MONITOR  |              |                                                                           |
 |tini                     |13826                           |RELEASE_MONITOR  |              |                                                                           |
 |tree                     |5006                            |RELEASE_MONITOR  |              |                                                                           |
@@ -174,7 +174,7 @@
 |ttf-dejavu               |418                             |RELEASE_MONITOR  |              |SKIP check format of version                                               |
 |tzdata                   |5021                            |RELEASE_MONITOR  |              |                                                                           |
 |util-macros              |5252                            |RELEASE_MONITOR  |              |                                                                           |
-|wasi-libc                |                                |                 |              |SKIP No releases, uses tags                                                |
+|wasi-libc                |                                |                 |              |SKIP UNKOWN                                                                |
 |wget                     |5124                            |RELEASE_MONITOR  |              |                                                                           |
 |xcb-proto                |13646                           |RELEASE_MONITOR  |              |                                                                           |
 |xmlto                    |13307                           |RELEASE_MONITOR  |              |                                                                           |
