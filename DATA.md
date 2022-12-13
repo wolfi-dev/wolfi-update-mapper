@@ -165,7 +165,7 @@
 |sed                      |4789                            |RELEASE_MONITOR  |              |                                                                           |
 |skalibs                  |5486                            |RELEASE_MONITOR  |              |                                                                           |
 |skopeo                   |9216                            |RELEASE_MONITOR  |              |                                                                           |
-|sqlite                   |4877                            |RELEASE_MONITOR  |              |                                                                           |
+|sqlite                   |4877                            |RELEASE_MONITOR  |              |SKIP                                                                           |
 |su-exec                  |                                |                 |              |SKIP No releases, uses tag                                                 |
 |texinfo                  |4958                            |RELEASE_MONITOR  |              |                                                                           |
 |tini                     |13826                           |RELEASE_MONITOR  |              |                                                                           |
