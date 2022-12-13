@@ -49,7 +49,7 @@
 |go-bindata               |                                |                 |              |SKIP UNKNOWN                                                               |
 |gperf                    |1237                            |RELEASE_MONITOR  |              |                                                                           |
 |grep                     |1251                            |RELEASE_MONITOR  |              |                                                                           |
-|grype                    |anchore/grype                   |GITHUB           |v             |SKIP UNKNOWN                                                               |
+|grype                    |anchore/grype                   |GITHUB           |v             |                                                                |
 |gzip                     |1290                            |RELEASE_MONITOR  |              |                                                                           |
 |help2man                 |1309                            |RELEASE_MONITOR  |              |                                                                           |
 |http-parser              |10989                           |RELEASE_MONITOR  |              |                                                                           |
