@@ -57,7 +57,7 @@
 |isl                      |13286                           |RELEASE_MONITOR  |              |SKIP                                                                       |
 |jenkins                  |jenkinsci/jenkins               |GITHUB           |              |                                                                           |
 |jq                       |13252                           |RELEASE_MONITOR  |              |                                                                           |
-|kubectl                  |kubernetes/kubernetes           |GITHUB           |              |SKIP UNKNOWN                                                               |
+|kubectl                  |kubernetes/kubernetes           |GITHUB           |              |                                                                           |
 |lcms                     |1542                            |RELEASE_MONITOR  |              |                                                                           |
 |libarchive               |1558                            |RELEASE_MONITOR  |              |                                                                           |
 |libbsd                   |1567                            |RELEASE_MONITOR  |              |                                                                           |
