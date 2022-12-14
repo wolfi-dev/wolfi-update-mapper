@@ -57,7 +57,7 @@
 |isl                      |13286                           |RELEASE_MONITOR  |              |SKIP                                                                       |
 |jenkins                  |jenkinsci/jenkins               |GITHUB           |              |                                                                           |
 |jq                       |13252                           |RELEASE_MONITOR  |              |                                                                           |
-|kubectl                  |kubernetes/kubernetes           |GITHUB           |              |                                                                           |
+|kubectl                  |kubernetes/kubernetes           |GITHUB           |              |SKIP                                                                           |
 |lcms                     |1542                            |RELEASE_MONITOR  |              |                                                                           |
 |libarchive               |1558                            |RELEASE_MONITOR  |              |                                                                           |
 |libbsd                   |1567                            |RELEASE_MONITOR  |              |                                                                           |
@@ -108,7 +108,7 @@
 |maven                    |1894                            |RELEASE_MONITOR  |              |                                                                           |
 |meson                    |6472                            |RELEASE_MONITOR  |              |                                                                           |
 |mkfontscale              |15043                           |RELEASE_MONITOR  |              |                                                                           |
-|mpc                      |1667                            |RELEASE_MONITOR  |              |                                                                           |
+|mpc                      |1667                            |RELEASE_MONITOR  |              |SKIP                                                                           |
 |mpdecimal                |11578                           |RELEASE_MONITOR  |              |                                                                           |
 |mpfr                     |2019                            |RELEASE_MONITOR  |              |                                                                           |
 |ncurses                  |2057                            |RELEASE_MONITOR  |              |SKIP check melange config as fetch URL includes the date https://release-monitoring.org/project/2057/|
