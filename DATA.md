@@ -23,7 +23,7 @@
 |cosign                   |sigstore/cosign                 |GITHUB           |v             |                                                                           |
 |crane                    |google/go-containerregistry     |GITHUB           |v             |                                                                           |
 |cups                     |380                             |RELEASE_MONITOR  |              |                                                                           |
-|curl                     |381                             |RELEASE_MONITOR  |              |                                                                           |
+|curl                     |curl/curl                       |GITHUB           |              |                                                                           |
 |dbus                     |5356                            |RELEASE_MONITOR  |              |                                                                           |
 |diffutils                |436                             |RELEASE_MONITOR  |              |                                                                           |
 |dumb-init                |11582                           |RELEASE_MONITOR  |              |                                                                           |
