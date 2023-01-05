@@ -12,7 +12,7 @@
 |bison                    |193                             |RELEASE_MONITOR  |              |                                                                           |
 |brotli                   |15235                           |RELEASE_MONITOR  |              |                                                                           |
 |bubblewrap               |10937                           |RELEASE_MONITOR  |              |                                                                           |
-|busybox                  |230                             |RELEASE_MONITOR  |              |                                                                           |
+|busybox                  |230                             |RELEASE_MONITOR  |              |SKIP                                                                        |
 |bzip2                    |237                             |RELEASE_MONITOR  |              |                                                                           |
 |c-ares                   |5840                            |RELEASE_MONITOR  |              |                                                                           |
 |ca-certificates          |9026                            |RELEASE_MONITOR  |              |                                                                           |
