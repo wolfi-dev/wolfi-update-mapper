@@ -52,6 +52,7 @@
 |grype                    |anchore/grype                   |GITHUB           |v             |                                                                |
 |gzip                     |1290                            |RELEASE_MONITOR  |              |                                                                           |
 |help2man                 |1309                            |RELEASE_MONITOR  |              |                                                                           |
+|helm                     |helm/helm                       |GITHUB           |              |                                                                           |
 |http-parser              |10989                           |RELEASE_MONITOR  |              |                                                                           |
 |icu                      |16134                           |RELEASE_MONITOR  |              |SKIP uses unusual version format                                           |
 |isl                      |13286                           |RELEASE_MONITOR  |              |SKIP                                                                       |
