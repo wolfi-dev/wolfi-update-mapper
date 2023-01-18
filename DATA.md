@@ -59,6 +59,7 @@
 |jenkins                  |jenkinsci/jenkins               |GITHUB           |              |                                                                           |
 |jq                       |13252                           |RELEASE_MONITOR  |              |                                                                           |
 |kubectl                  |kubernetes/kubernetes           |GITHUB           |              |SKIP                                                                           |
+|kustomize                |kubernetes-sigs/kustomize       |GITHUB           |              |                                                                               |
 |lcms                     |1542                            |RELEASE_MONITOR  |              |                                                                           |
 |libarchive               |1558                            |RELEASE_MONITOR  |              |                                                                           |
 |libbsd                   |1567                            |RELEASE_MONITOR  |              |                                                                           |
