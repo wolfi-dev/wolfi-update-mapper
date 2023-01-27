@@ -34,6 +34,7 @@
 |file                     |807                             |RELEASE_MONITOR  |              |                                                                           |
 |findutils                |812                             |RELEASE_MONITOR  |              |                                                                           |
 |flex                     |819                             |RELEASE_MONITOR  |              |                                                                           |
+|flux                     |fluxcd/flux2                    |GITHUB           |              |                                                                           |
 |font-util                |15055                           |RELEASE_MONITOR  |              |name=xorg-font-util                                                        |
 |fontconfig               |827                             |RELEASE_MONITOR  |              |                                                                           |
 |freetype                 |854                             |RELEASE_MONITOR  |              |                                                                           |
@@ -154,6 +155,7 @@
 |py3-six                  |4027                            |RELEASE_MONITOR  |              |                                                                           |
 |py3-tomli                |207408                          |RELEASE_MONITOR  |              |                                                                           |
 |python3                  |13254                           |RELEASE_MONITOR  |              |SKIP python minor version [is used in the subpackage](https://github.com/wolfi-dev/os/blob/fbdc30376679526ce0c5bec80debeb111512ea7e/python3.yaml#LL90C61-L90C65) so upgrade to 3.11 fails|
+|rabbitmq-server          |rabbitmq/rabbitmq-server        |GITHUB           |              |                                                                           |
 |readline                 |4173                            |RELEASE_MONITOR  |              |                                                                           |
 |regclient                |                                |                 |              |SKIP UNKNOWN                                                               |
 |rhash                    |13843                           |RELEASE_MONITOR  |              |                                                                           |
