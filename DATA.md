@@ -53,14 +53,14 @@
 |grype                    |anchore/grype                   |GITHUB           |v             |                                                                |
 |gzip                     |1290                            |RELEASE_MONITOR  |              |                                                                           |
 |help2man                 |1309                            |RELEASE_MONITOR  |              |                                                                           |
-|helm                     |helm/helm                       |GITHUB           |              |                                                                           |
+|helm                     |helm/helm                       |GITHUB           |v             |                                                                           |
 |http-parser              |10989                           |RELEASE_MONITOR  |              |                                                                           |
 |icu                      |16134                           |RELEASE_MONITOR  |              |SKIP uses unusual version format                                           |
 |isl                      |13286                           |RELEASE_MONITOR  |              |SKIP                                                                       |
 |jenkins                  |jenkinsci/jenkins               |GITHUB           |              |                                                                           |
 |jq                       |13252                           |RELEASE_MONITOR  |              |                                                                           |
 |kubectl                  |kubernetes/kubernetes           |GITHUB           |              |SKIP                                                                           |
-|kustomize                |kubernetes-sigs/kustomize       |GITHUB           |              |                                                                               |
+|kustomize                |kubernetes-sigs/kustomize       |GITHUB           |kustomize/v   |                                                                               |
 |lcms                     |1542                            |RELEASE_MONITOR  |              |                                                                           |
 |libarchive               |1558                            |RELEASE_MONITOR  |              |                                                                           |
 |libbsd                   |1567                            |RELEASE_MONITOR  |              |                                                                           |
