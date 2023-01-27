@@ -34,7 +34,7 @@
 |file                     |807                             |RELEASE_MONITOR  |              |                                                                           |
 |findutils                |812                             |RELEASE_MONITOR  |              |                                                                           |
 |flex                     |819                             |RELEASE_MONITOR  |              |                                                                           |
-|flux                     |fluxcd/flux2                    |GITHUB           |              |                                                                           |
+|flux                     |fluxcd/flux2                    |GITHUB           |v             |                                                                           |
 |font-util                |15055                           |RELEASE_MONITOR  |              |name=xorg-font-util                                                        |
 |fontconfig               |827                             |RELEASE_MONITOR  |              |                                                                           |
 |freetype                 |854                             |RELEASE_MONITOR  |              |                                                                           |
