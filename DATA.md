@@ -146,7 +146,7 @@
 |py3-markupsafe           |3918                            |RELEASE_MONITOR  |              |                                                                           |
 |py3-more-itertools       |12201                           |RELEASE_MONITOR  |              |                                                                           |
 |py3-ordered-set          |7433                            |RELEASE_MONITOR  |              |SKIP - CI failure cp: can't stat 'ordered_set.egg-info': No such file or directory|
-|py3-packaging            |11718                           |RELEASE_MONITOR  |              |                                                                           |
+|py3-packaging            |11718                           |RELEASE_MONITOR  |              |SKIP - changes upstream make it hard to auto upgrade.                           |
 |py3-parsing              |3756                            |RELEASE_MONITOR  |              |                                                                           |
 |py3-pep517               |47623                           |RELEASE_MONITOR  |              |                                                                           |
 |py3-pip                  |6529                            |RELEASE_MONITOR  |              |                                                                           |
