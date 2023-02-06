@@ -128,6 +128,7 @@
 |perl                     |13599                           |RELEASE_MONITOR  |              |                                                                           |
 |perl-test-pod            |3410                            |RELEASE_MONITOR  |              |                                                                           |
 |perl-yaml-syck           |11926                           |RELEASE_MONITOR  |              |                                                                           |
+|php                      |3627                            |RELEASE_MONITOR  |              |                                                                           |
 |pkgconf                  |12753                           |RELEASE_MONITOR  |              |                                                                           |
 |popt                     |3689                            |RELEASE_MONITOR  |              |                                                                           |
 |postgresql-11            |5601                            |RELEASE_MONITOR  |              |SKIP check version stream https://release-monitoring.org/project/5601/     |
