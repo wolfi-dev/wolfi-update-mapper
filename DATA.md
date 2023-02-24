@@ -24,6 +24,7 @@
 |crane                    |google/go-containerregistry     |GITHUB           |v             |                                                                           |
 |cups                     |380                             |RELEASE_MONITOR  |              |                                                                           |
 |curl                     |curl/curl                       |GITHUB           |              |                                                                           |
+|deno                     |denoland/deno                   |GITHUB           |v             |                                                                           |
 |dbus                     |5356                            |RELEASE_MONITOR  |              |                                                                           |
 |diffutils                |436                             |RELEASE_MONITOR  |              |                                                                           |
 |dumb-init                |11582                           |RELEASE_MONITOR  |              |                                                                           |
