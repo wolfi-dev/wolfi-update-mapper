@@ -3,6 +3,7 @@
 |acl                      |16                              |RELEASE_MONITOR  |              |                                                                           |
 |alsa-lib                 |38                              |RELEASE_MONITOR  |              |                                                                           |
 |apk-tools                |20466                           |RELEASE_MONITOR  |              |                                                                           |
+|apko                     |chainguard-dev/apko             |GITHUB           |v             |                                                                           |
 |attr                     |137                             |RELEASE_MONITOR  |              |                                                                           |
 |autoconf                 |141                             |RELEASE_MONITOR  |              |                                                                           |
 |automake                 |144                             |RELEASE_MONITOR  |              |                                                                           |
